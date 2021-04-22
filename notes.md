@@ -5,3 +5,4 @@ Lectures Completed on 22/4/21:
 * New Laravel installation
 * Overview on mailgun
 * Email verification
+* Configuration
