@@ -6,3 +6,4 @@ Lectures Completed on 22/4/21:
 * Overview on mailgun
 * Email verification
 * Configuration
+* Sending Email - Part 1 - Routes
