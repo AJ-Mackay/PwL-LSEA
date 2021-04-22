@@ -7,3 +7,4 @@ Lectures Completed on 22/4/21:
 * Email verification
 * Configuration
 * Sending Email - Part 1 - Routes
+* Sending Email - Part 2 - Views
